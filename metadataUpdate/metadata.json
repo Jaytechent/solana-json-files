@@ -1,6 +1,6 @@
 {
-  "name": "GMC TOKEN",
-  "symbol": "GMC",
-  "description": "Just a test for how to name your token, again and again ;)",
-  "image": "https://raw.githubusercontent.com/Jaytechent/solana-json-files/main/metadataUpdate/soltest.jpg"
+  "name": "Gmc Meme",
+  "symbol": "GMCM",
+  "description": "The Meme token for the Advert protocol bridging the gap between web2 and web3 Advertisement agencies"
+  "image": "https://raw.githubusercontent.com/Jaytechent/solana-json-files/6d0717a37221ad4c2e810d6a176e519cbaceb042/metadataUpdate/gmcads-logo.png"
 }
